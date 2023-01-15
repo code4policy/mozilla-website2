@@ -9,6 +9,11 @@
   font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
   font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google Fonts */
 }
+
+  .red-text {
+  color: red;
+}
+
 h1 {
   font-size: 60px;
   text-align: center;
@@ -22,6 +27,7 @@ li {
 }
 html {
   background-color: #00539f;
+
 }
 body {
   width: 600px;
@@ -29,7 +35,14 @@ body {
   background-color: #ff9500;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
+
+
+
 }
+
+
+}
+
 h1 {
   margin: 0;
   padding: 20px 0;
